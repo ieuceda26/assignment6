@@ -2,6 +2,9 @@
 <h1>Jokebook</h1>
 <h1>DEMO LINK: [
 ](https://uncg-my.sharepoint.com/:u:/g/personal/i_eucedacol_uncg_edu/IQBDTJpg5dhpSZKuHY3G93-lAT1QQnm70tcjcauXFlvUzrI?e=CtnPuw)
+<h1> DIRECT LINK IN CASE LINK ABOVE GIVES YOU TROUBLE:[
+](https://www.loom.com/share/d928055c6fe444f1805f242fe0772bed)
+  (I am not able to download it off the recording service I used since I do not have a paid membership.
 <h1>Description</h1>
 We are creating a database to store jokes and demoing endpoints. 
 <h1>Dependencies</h1>
