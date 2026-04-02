@@ -1,0 +1,50 @@
+<!-- Name: Isaac Euceda
+Date: 4/02/2026
+CSC-372-01
+Html page
+-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Jokebook</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <h1>Jokebook</h1>
+
+  <section id="random-section">
+    <h2>Random Joke</h2>
+    <div id="random-joke"></div>
+  </section>
+
+  <section id="categories-section">
+    <h2>Categories</h2>
+    <div id="category-buttons"></div>
+  </section>
+
+  <section id="search-section">
+    <h2>Search a Category</h2>
+    <input type="text" id="category-input" placeholder="Enter a category" />
+    <button id="search-btn">Search</button>
+  </section>
+
+  <section id="jokes-section">
+    <h2 id="jokes-heading"></h2>
+    <div id="jokes-list"></div>
+  </section>
+
+  <section id="add-section">
+    <h2>Add a Joke</h2>
+    <input type="text" id="add-category" placeholder="Category" />
+    <input type="text" id="add-setup" placeholder="Setup" />
+    <input type="text" id="add-delivery" placeholder="Delivery" />
+    <button id="add-btn">Add Joke</button>
+    <div id="add-error" class="error"></div>
+  </section>
+
+  <script src="script.js"></script>
+</body>
+</html>
